@@ -1,2 +1,2 @@
 # AI-ML-final_project
-"A prowjict with \ mathematical exploration and Python implementation of the Dijkstra's algorithm.
+"A project with  mathematical exploration and Python implementation of the Dijkstra's algorithm.

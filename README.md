@@ -1,6 +1,6 @@
 Pathfinding Paradigms: A Comparative Mathematical Analysis
 Project Overview
-This repository contains the final project for the AI/ML course. It explores the mathematical foundations and real-world applications of Shortest Path algorithms in graph theory.
+This repository contains the final project for the Math-for-developers course in the AI/ML module. It explores the mathematical foundations and real-world applications of Shortest Path algorithms in graph theory.
 
 Instead of merely implementing a single algorithm, this project provides a rigorous comparative analysis between Dijkstra's Algorithm, the Bellman-Ford Algorithm, and Breadth-First Search (BFS). It evaluates their performance, mathematical invariants, and constraints across different graph topologies.
 

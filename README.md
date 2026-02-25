@@ -1,5 +1,21 @@
-# AI-ML-final_project
-"A project with  mathematical exploration and Python implementation of the Dijkstra's algorithm.
-Hello in this project im going to show problems, solutions, how it works and many more things about the the Dijkstra's algorithm.
-Ive chosen this to be my project because thats one of my favourite algorithms of all time. I mean an algorittm for the simplest question of "how long is the distance between a and b" lead to one really comlpex algorithm that i adore.
-Also that algorithm was one of my first big things i did in my coding journey. I did it on C#, now ive done it on Python and i can say that i love it even more now.
+Pathfinding Paradigms: A Comparative Mathematical Analysis
+Project Overview
+This repository contains the final project for the AI/ML course. It explores the mathematical foundations and real-world applications of Shortest Path algorithms in graph theory.
+
+Instead of merely implementing a single algorithm, this project provides a rigorous comparative analysis between Dijkstra's Algorithm, the Bellman-Ford Algorithm, and Breadth-First Search (BFS). It evaluates their performance, mathematical invariants, and constraints across different graph topologies.
+
+Key Objectives & Applications
+The core of this project is to demonstrate that algorithmic superiority is highly dependent on the problem domain. The analysis is applied to three distinct real-world scenarios:
+
+Urban GPS Routing (Positive Weights): Demonstrating the greedy efficiency of Dijkstra's algorithm.
+
+Financial Arbitrage (Negative Cycles): Utilizing Bellman-Ford's dynamic programming approach to detect negative weight cycles in currency exchange networks.
+
+Social Networks (Unweighted Graphs): Proving mathematically why Dijkstra degenerates in unweighted scenarios and why BFS is the optimal choice for finding "Degrees of Separation".
+
+Repository Structure
+Shortest_Path_Analysis.ipynb: The main Jupyter Notebook containing all theoretical mathematical proofs, algorithmic implementations, data generation, and visual benchmarks.
+
+README.md: Project overview and setup instructions.
+
+Libraries: numpy, matplotlib, time
